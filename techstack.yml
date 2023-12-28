@@ -1,0 +1,19 @@
+repo_name: pangpondwee/cv
+report_id: 360dcb983e15750c0a87b27ebc08c9d0
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-28T13:12:53+00:00'
+requested_by: pangpondwee
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
